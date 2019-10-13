@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Ti, gay!" << std::endl;
+	std::cout << "F!" << std::endl;
 	return EXIT_SUCCESS;
 }
